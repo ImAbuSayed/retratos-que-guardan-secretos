@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Retratos que guardan secretos
+
+This log tracks the cryptographic history and versioning for the song **Retratos que guardan secretos** (retratos-que-guardan-secretos).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-14T13:40:05.668269 | `v1` | `7b16dc3a5b4c04ec4fb177f9d1e1cb9e8e6eeaabae1e71f5198ecaa3d6a77f1d` | `6c6f6c4b21b046e90143a35c7f04515757c1292f08a9e2ede60ac91c9bec1bf3` | `2026-06-14_retratos-que-guardan-secretos-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
