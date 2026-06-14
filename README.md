@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/retratos-que-guardan-secretos/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Music Rights & Licensing for Retratos que guardan secretos](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/retratos-que-guardan-secretos/) |
+| **Get License** | [License this song: Retratos que guardan secretos](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/retratos-que-guardan-secretos/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Quiero descifrar los secretos que tú me escondes
+> En la oscuridad de la disco cuando respondes
+> Tus ojos me llaman, me dicen que no me aleje
+> Deja que la calle y la noche sean quien nos maneje
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
